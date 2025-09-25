@@ -8,5 +8,6 @@ Now lets code for null pointer exception
 
 <!-- Adding a number for the label -->
 
-label = 24
+// Lets do the force push now
+label = 50
 print(len(Label))
